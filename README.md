@@ -4,7 +4,7 @@ Skills
 
 Languages: C, Python, Java, Dart (Flutter), Assembly, Prolog, Haskell, Erlang, SQL.. 
 
-Libraries: Scikit-learn, PyTorch, NumPy, Scapy, Aeon (Catch22), TSFEL, tsLearn  
+Libraries: Scikit-learn, PyTorch, TensorFlow, TFlite, NumPy, Scapy, Aeon (Catch22), TSFEL, tsLearn  
 
 Tools: Git, Jupyter Notebook, Oracle VM VirtualBox, Wireshark, NuSMV, WinMIPS64, TkGate  
 
